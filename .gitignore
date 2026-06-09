@@ -1,0 +1,4 @@
+# Fonte em texto plano e ferramentas de build — NUNCA publicar
+content.html
+build.py
+*.source.html
